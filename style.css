@@ -11,7 +11,7 @@ h2 {
   text-align: center;
 }
 p {
-  font-size: 20px
+  font-size: 20px;
   color: white;
   text-align: center;
 }
@@ -23,5 +23,5 @@ img {
   border: 3px solid white;
 }
 li {
-  color: lightpink
+  color: lightpink;
 }
