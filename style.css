@@ -1,9 +1,20 @@
+div {
+  border: 2px solid magenta;
+}
+#page-title {
+  color: magenta;
+  font-size: 50px;
+}
+.highlight {
+  background-color: lightcoral;
+  color: purple;
+}
 body {
   background-color: lightgreen;
   font-family: Helvetica, sans-serif;
 }
 h1 { 
-  color: darkgreen;
+  color: pink;
   text-align: center;
   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
