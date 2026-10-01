@@ -2,7 +2,7 @@ const button = document.querySelector("#button");
 const message = document.querySelector("#message");
 
 function changeMessage(){
-    message.textContent="Button has been #clicked";
+    element.style.backgroundColor = "pink";
 }
 
 button.addEventListener("click",changeMessage);
