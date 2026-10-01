@@ -1,7 +1,7 @@
 const button = document.querySelector("#button"); 
 const message = document.querySelector("#message");
 
-function chnageMessage(){
+function changeMessage(){
     message.textContent="Button has been #clicked";
 }
 
