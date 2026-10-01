@@ -1,8 +1,8 @@
 const button = document.querySelector("#button"); 
-const message = document.querySelector("#backgroundColor");
+const message = document.querySelector("#changebackgroundColor");
 
 function backgroundColor(){
-    element.style.backgroundColor="lightblue";
+    element.style.backgroundColor="blue";
 }
 
-button.addEventListener("click",backgroundColor);
+button.addEventListener("click",changebackgroundColor);
