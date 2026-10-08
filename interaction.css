@@ -1,0 +1,6 @@
+#star1 {
+  width: 300px;  
+  aspect-ratio: 1;
+  background: blue;
+  clip-path: polygon(50% 0,79% 90%,2% 35%,98% 35%,21% 90%);
+}
