@@ -21,7 +21,7 @@ a {
   clip-path: polygon(50% 0,79% 90%,2% 35%,98% 35%,21% 90%);
   position: absolute;
   left: 20px;
-  top: 200px;
+  top: 250px;
 }
 #star2 {
   width: 300px;  
@@ -30,7 +30,7 @@ a {
   clip-path: polygon(50% 0,79% 90%,2% 35%,98% 35%,21% 90%);
   position: absolute;
   left: 450px;
-  top: 200px;
+  top: 250px;
 }
 #star3 {
   width: 300px;  
@@ -39,6 +39,6 @@ a {
   clip-path: polygon(50% 0,79% 90%,2% 35%,98% 35%,21% 90%);
   position: absolute;
   left: 900px;
-  top: 200px;
+  top: 250px;
 }
 
