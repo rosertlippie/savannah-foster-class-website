@@ -9,6 +9,11 @@ p {
   color: lightblue;
   text-align: center;
 }
+a {
+  font-size: 40px;
+  color: lightpink;
+  text-align: center;
+}
 #star1 {
   width: 300px;  
   aspect-ratio: 1;
@@ -23,4 +28,25 @@ p {
   background: lightpink;
   clip-path: polygon(50% 0,79% 90%,2% 35%,98% 35%,21% 90%);
   position: relative;
+  left: 40px;
+  top: 40px;
 }
+#star3 {
+  width: 300px;  
+  aspect-ratio: 1;
+  background: lightblue;
+  clip-path: polygon(50% 0,79% 90%,2% 35%,98% 35%,21% 90%);
+  position: relative;
+  left: 60px;
+  top: 60px;
+}
+#star4 {
+  width: 300px;  
+  aspect-ratio: 1;
+  background: lightpurple;
+  clip-path: polygon(50% 0,79% 90%,2% 35%,98% 35%,21% 90%);
+  position: relative;
+  left: 80px;
+  top: 80px;
+}
+
